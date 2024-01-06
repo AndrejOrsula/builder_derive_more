@@ -1,0 +1,20 @@
+[package]
+name = "builder_derive_more"
+authors = ["Andrej Orsula <orsula.andrej@gmail.com>"]
+categories = ["rust-patterns"]
+description = "Additional procedural macros for the builder pattern."
+edition = "2021"
+keywords = ["builder", "derive"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/AndrejOrsula/builder_derive_more"
+rust-version = "1.64"
+version = "0.1.0"
+
+[dependencies]
+proc-macro2 = { version = "1" }
+quote = { version = "1" }
+syn = { version = "2" }
+
+[lib]
+proc-macro = true
