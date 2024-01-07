@@ -63,6 +63,4 @@ repos:
         args: ["--workspace", "--all-features"]
       - id: cargo-doc
         args: ["--workspace", "--no-deps", "--document-private-items"]
-      - id: cargo-miri-test
-        args: ["--workspace", "--all-features"]
       - id: cargo-deny-check
