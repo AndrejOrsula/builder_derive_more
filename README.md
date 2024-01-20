@@ -1,9 +1,11 @@
 # builder_derive_more
 
 <p align="left">
-  <a href="https://crates.io/crates/builder_derive_more">                                   <img alt="crates.io" src="https://img.shields.io/crates/v/builder_derive_more.svg"></a>
-  <a href="https://github.com/AndrejOrsula/builder_derive_more/actions/workflows/rust.yml"> <img alt="Rust"      src="https://github.com/AndrejOrsula/builder_derive_more/actions/workflows/rust.yml/badge.svg"></a>
-  <a href="https://codecov.io/gh/AndrejOrsula/builder_derive_more">                         <img alt="codecov"   src="https://codecov.io/gh/AndrejOrsula/builder_derive_more/branch/main/graph/badge.svg"></a>
+  <a href="https://crates.io/crates/builder_derive_more">                                   <img alt="crates.io"  src="https://img.shields.io/crates/v/builder_derive_more.svg"></a>
+  <a href="https://docs.rs/builder_derive_more">                                            <img alt="docs.rs"    src="https://docs.rs/builder_derive_more/badge.svg"></a>
+  <a href="https://github.com/AndrejOrsula/builder_derive_more/actions/workflows/rust.yml"> <img alt="Rust"       src="https://github.com/AndrejOrsula/builder_derive_more/actions/workflows/rust.yml/badge.svg"></a>
+  <a href="https://deps.rs/repo/github/AndrejOrsula/builder_derive_more">                   <img alt="deps.rs"    src="https://deps.rs/repo/github/AndrejOrsula/builder_derive_more/status.svg"></a>
+  <a href="https://codecov.io/gh/AndrejOrsula/builder_derive_more">                         <img alt="codecov.io" src="https://codecov.io/gh/AndrejOrsula/builder_derive_more/branch/main/graph/badge.svg"></a>
 </p>
 
 Additional Rust procedural macros for the builder pattern.
